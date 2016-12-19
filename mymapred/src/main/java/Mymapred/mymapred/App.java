@@ -30,7 +30,7 @@ public class App {
       }
     }
   }
-
+//the test code was created
   public static class IntSumReducer
        extends Reducer<Text,IntWritable,Text,IntWritable> {
     private IntWritable result = new IntWritable();
